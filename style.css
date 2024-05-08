@@ -1,0 +1,53 @@
+body {
+  font-family: 'Patua One', cursive;
+  color: #fff;
+  margin: 0px;
+  padding: 0px;
+  background-color: #000;
+}
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.james, .button {
+  margin: 0 auto;
+  position:relative; 
+  width:80%;
+}
+.answer {
+  position:absolute;
+  width:14%;
+  top:50%;
+  left:75%;
+  margin-top:-60px;
+  margin-left:-65px;
+  font: 35px 'Open Sans', Helvetica, Arial, sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+#questionButton {
+  font: 26px 'Patua One', cursive;
+  border-radius: 5px;
+  border: none;
+  color: #f8f8f8;
+  background-color: #949a90;
+  padding: 10px 75px;
+  display: block;
+  margin: 0 auto;
+}
+
+header {
+  padding-top: 0.25em;
+  text-align: center;
+}
+header span {
+  font-size: 60px;
+  color: #949a90;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Patua One', cursive;
+}
+
